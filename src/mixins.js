@@ -7,9 +7,7 @@ export default {
         method: 'post',
         url,
         data
-      }).catch(e => {
-        console.log(e);
-      })).data;
+      }).catch()).data;
     },
     $base64(file) {
       return new Promise(resolve => {

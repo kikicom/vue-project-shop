@@ -1,4 +1,19 @@
+#모듈 설치
+npm install
+
+# axios 설치
+npm install axios --save
+
+# 라우터 설치
+vue add router
+
+#서버 실행
+npm run serve
+
+
 # 서버 플러그인 설치
 npm install express
 npm install express-session
 npm install mysql
+
+npm 
